@@ -1,9 +1,9 @@
 # Notes_6.3.15
 Final Class Meeting Notes
 
-Roadkill Example.
+I.) Roadkill Example.
 
-Richard's advice:
+     A.) Richard's advice:
 
 Think about: what processes could generate data like these?  Form hypotheses, and simulate data.  If you can write the algorithm (monks & manuscripts example from Richard’s course) that simulates similar data, you have your stats model.  It's possible to estimate the parameters from the data.
 
@@ -17,7 +17,8 @@ Could do partial pooling - every species gets its own intercept for each compone
 
 How many animals are exposed per unit length of the road?
 log(lambda sub s) = habitat + species + time of day + traffic + ..include some context.... + gaussian process that depends on the location
-logit(p2) = traffic + species + 
+logit(p2) = traffic + species + ...
+
 
 
 
